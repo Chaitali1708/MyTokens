@@ -9,8 +9,7 @@ Create a new Hardhat Javascript Project using
 
 npx hardhat
 
-Authors
-Chaitali
+
 
 License
 This project is licensed under the MIT License
